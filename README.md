@@ -1,2 +1,2 @@
 # testabhi
-- odata@odata\.count
+- odata@odata\.\count
